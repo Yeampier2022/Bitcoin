@@ -313,6 +313,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
+    background-image: url(./assets/icons/trending-down.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -322,6 +323,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
+    background-image: url(./assets/icons/trending-up.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -331,6 +333,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
+    background-image: url(./assets/icons/trending-down.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -340,6 +343,7 @@ main{
     width: 15px;
     height: 15px;
     margin-left: 10px;
+    background-image: url(./assets/icons/trending-down.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -385,7 +389,7 @@ main{
     height: 25px;
     top: -10px;
     left: calc(50% - 20px);
-    background-image: url(/assets/icons/batata.svg);
+    background-image: url(/Bitcoin/assets/icons/batata.svg);
     
 }
 .product-card--container .color-p{
@@ -437,7 +441,7 @@ main{
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(/assets/icons/clock.svg);
+    background-image: url(/Bitcoin/assets/icons/clock.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -526,7 +530,7 @@ main{
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(/assets/icons/dollar-sign.svg);
+    background-image: url(/Bitcoin/assets/icons/dollar-sign.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -561,7 +565,7 @@ main{
     width: 20px;
     height: 20px;
     margin-bottom: 10px;
-    background-image: url(/assets/icons/check-circle.svg);
+    background-image: url(/Bitcoin/assets/icons/clock.svg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
